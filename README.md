@@ -16,7 +16,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=bulletproofadks.bulletproofadks)
 
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/bulletproofadks/bulletproofadks/master/theManInSeat.gif" width="320" height="350" />
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/bulletproofadks/bulletproofadks/master/theManInSeat.gif" width="360" height="325" />
   
 ### Talking about Personal Stuffs:
 
