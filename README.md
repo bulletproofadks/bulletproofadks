@@ -24,7 +24,6 @@
 - 🌱 I’m currently learning about enterprise platforms; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@aditya](https://twitter.com/AdityaK68714494);
-- ✨ Deep: Your failures become legendary when you become successful :wink:;
 
 ### Languages and Tools:  
 
