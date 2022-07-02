@@ -1,4 +1,3 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ### Hi, I'm [Aditya!](https://github.com/bulletproofadks/) a Full Stack Web Developer 
 
 <a href="https://twitter.com/AdityaK68714494">
@@ -6,9 +5,6 @@
 </a>
 <a href="https://www.linkedin.com/in/adityaadks/">
   <img align="left" alt="Aditya's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://open.spotify.com/">
-  <img align="left" alt="Aditya's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 <a href="mailto:caditya1997@gmail.com">
   <img align="left" alt="Aditya's gmail" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" />
